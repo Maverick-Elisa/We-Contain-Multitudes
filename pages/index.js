@@ -17,7 +17,7 @@ function HomePage() {
           fontFamily: 'franklin gothic book',
           color: '#00635c' }}
       >
-        I'm very glad you decided to embark on a journey to further explore oneself
+       {"I'm very glad you decided to embark on a journey to further explore oneself"}
       </h2>
       <button
         style={{
@@ -58,7 +58,7 @@ function HomePage() {
           fontFamily: 'franklin gothic book',
           color: '#00635c' }}
       >
-        This is all I've got so far 😅 I'll come back with an update
+        {"This is all I've got so far 😅 I'll come back with an update"}
       </h2>
     </div>
   );
