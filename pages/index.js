@@ -45,7 +45,7 @@ function HomePage() {
         onClick={() => {
           let name = prompt("How would you define yourself?");
           if (name) {
-            alert('Thank you for sharing, ' + name + '😆 You are on your way.');
+            alert('Thank you for sharing, + name + 😆 You are on your way.');
           } else {
             alert('All the best for you 😄');
           }
